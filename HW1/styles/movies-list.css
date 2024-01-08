@@ -1,20 +1,21 @@
-.trend-title {
+.list-title {
+  margin-top: -20px;
   margin-left: -85px;
 }
 
-.trend-grid {
+.movie-grid {
   display: grid;
   margin-left: -25px;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   column-gap: 0px;
 }
 
-.trend-thumbnail {
+.thumbnail {
   width: 70%;
   align-items: center;
 }
 
-.trend-thumbnail:hover {
+.thumbnail:hover {
   width: 85%;
   align-items: center;
   margin-left: -15px;

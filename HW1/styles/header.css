@@ -1,0 +1,20 @@
+.left-section {
+  display: flex;
+  align-items: center;
+}
+
+.netflix-logo {
+  margin-top: -5px;
+  height:40px;
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+}
+
+.user-profile {
+  margin-top: -5px;
+  height: 25px;
+  margin-right: 10px;
+}
